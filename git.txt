@@ -1,11 +1,12 @@
-gti:�汾��������
-�ֲ�ʽ�汾��������
+gti:版本控制软件
+分布式版本控制软件
 
-����:
-git add:�������ļ� ���ӵ� �ݴ���
-git commit:���ݴ��������� �ύ�� ���زֿ�(���ط�֧,Ĭ��master��֧)
-git push:�����زֿ������ ���͵� Զ�ֿ̲�(Զ�̷�֧)
+命令:
+git add:将本地文件 增加到 暂存区
+git commit:将暂存区的内容 提交到 本地仓库(本地分支,默认master分支)
+git push:将本地仓库的内容 推送到 远程仓库(远程分支)
 
-git pull:��Զ�ֿ̲������ ��ȡ�� ���زֿ�
+git pull:将远程仓库的内容 拉取到 本地仓库
 
 123
+hellow world
